@@ -285,6 +285,24 @@
     <None Include="Project_Readme.html" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\shoper.Common\shoper.Common.csproj">
+      <Project>{ff588f24-1c1b-4723-af8c-102a722c0db6}</Project>
+      <Name>shoper.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\shoper.Data\shoper.Data.csproj">
+      <Project>{cada3a42-d511-4a57-9617-fe69492018eb}</Project>
+      <Name>shoper.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\shoper.Model\shoper.Model.csproj">
+      <Project>{a375dee6-9f70-46ad-9581-7fe47c3019eb}</Project>
+      <Name>shoper.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\shoper.Service\shoper.Service.csproj">
+      <Project>{1c5f521c-aaf6-49d9-93f0-448f832e6b14}</Project>
+      <Name>shoper.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

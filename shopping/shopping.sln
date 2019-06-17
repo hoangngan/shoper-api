@@ -9,9 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoper.Data", "shoper.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoper.Service", "shoper.Service\shoper.Service.csproj", "{1C5F521C-AAF6-49D9-93F0-448F832E6B14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shop.UnitTest", "shop.UnitTest\shop.UnitTest.csproj", "{68888DF8-667A-4332-ACDB-34F08B8E1A47}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoper.UnitTest", "shop.UnitTest\shoper.UnitTest.csproj", "{68888DF8-667A-4332-ACDB-34F08B8E1A47}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoper.Web", "shoper.Web\shoper.Web.csproj", "{1D71DD7C-D987-456F-A945-6C8CB4F95392}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shoper.Model", "shoper.Model\shoper.Model.csproj", "{A375DEE6-9F70-46AD-9581-7FE47C3019EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{1D71DD7C-D987-456F-A945-6C8CB4F95392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D71DD7C-D987-456F-A945-6C8CB4F95392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D71DD7C-D987-456F-A945-6C8CB4F95392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A375DEE6-9F70-46AD-9581-7FE47C3019EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A375DEE6-9F70-46AD-9581-7FE47C3019EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A375DEE6-9F70-46AD-9581-7FE47C3019EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A375DEE6-9F70-46AD-9581-7FE47C3019EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

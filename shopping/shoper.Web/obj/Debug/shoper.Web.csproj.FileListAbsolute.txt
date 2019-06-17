@@ -75,3 +75,11 @@ E:\shop-net-api\shopping\shoper.Web\bin\System.Web.Http.Owin.xml
 E:\shop-net-api\shopping\shoper.Web\obj\Debug\shoper.Web.csprojResolveAssemblyReference.cache
 E:\shop-net-api\shopping\shoper.Web\obj\Debug\shoper.Web.dll
 E:\shop-net-api\shopping\shoper.Web\obj\Debug\shoper.Web.pdb
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Common.dll
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Data.dll
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Model.dll
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Service.dll
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Common.pdb
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Data.pdb
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Model.pdb
+E:\shop-net-api\shopping\shoper.Web\bin\shoper.Service.pdb

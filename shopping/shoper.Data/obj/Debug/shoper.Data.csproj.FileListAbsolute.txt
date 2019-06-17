@@ -1,0 +1,12 @@
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Data.dll.config
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Data.dll
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Data.pdb
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\EntityFramework.dll
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Common.dll
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Common.pdb
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\EntityFramework.xml
+E:\shop-net-api\shopping\shoper.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.csprojResolveAssemblyReference.cache
+E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.dll
+E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.pdb
