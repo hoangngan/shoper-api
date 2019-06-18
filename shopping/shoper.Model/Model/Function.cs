@@ -26,9 +26,10 @@ namespace shoper.Model.Model
         [StringLength(50)]
         [Column(TypeName ="varchar")]
 
-        public string ParentID { set; get; }
+        public string ParentId { set; get; }
         [ForeignKey("ParentId")]
         public virtual Function Parent { set; get; }
+
         public bool Status { set; get; }
         public string IconCss { set; get; }
     }

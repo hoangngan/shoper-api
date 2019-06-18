@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace shoper.Model.Model
 {
     [Table("Feedbacks")]
-    class Feedback
+    public class Feedback
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

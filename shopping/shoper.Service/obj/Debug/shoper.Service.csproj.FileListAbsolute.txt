@@ -9,3 +9,5 @@ E:\shop-net-api\shopping\shoper.Service\bin\Debug\shoper.Model.pdb
 E:\shop-net-api\shopping\shoper.Service\obj\Debug\shoper.Service.csprojResolveAssemblyReference.cache
 E:\shop-net-api\shopping\shoper.Service\obj\Debug\shoper.Service.dll
 E:\shop-net-api\shopping\shoper.Service\obj\Debug\shoper.Service.pdb
+E:\shop-net-api\shopping\shoper.Service\bin\Debug\EntityFramework.dll
+E:\shop-net-api\shopping\shoper.Service\bin\Debug\EntityFramework.xml

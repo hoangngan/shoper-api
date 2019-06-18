@@ -13,14 +13,14 @@ namespace shoper.Model.Model
     {
         [Key]
         [Column(Order=1)]
-        public int OrderId { set; get; }
+        public int OrderID { set; get; }
         [Key]
         [Column(Order=2)]
         public int ProductID { set; get; }
         public int Quantity { set; get; }
         public Decimal Price { set; get; }
         public int ColorId { set; get; }
-        public int SizeId { set; get; }
+        public int SizeID { set; get; }
         [ForeignKey("OrderID")]
         public virtual Order order { set; get; }
         [ForeignKey("ProductID")]
