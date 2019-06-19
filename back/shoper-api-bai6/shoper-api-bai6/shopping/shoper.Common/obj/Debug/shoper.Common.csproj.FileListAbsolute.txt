@@ -1,0 +1,5 @@
+E:\shop-net-api\shopping\shoper.Common\bin\Debug\shoper.Common.dll
+E:\shop-net-api\shopping\shoper.Common\bin\Debug\shoper.Common.pdb
+E:\shop-net-api\shopping\shoper.Common\obj\Debug\shoper.Common.csprojResolveAssemblyReference.cache
+E:\shop-net-api\shopping\shoper.Common\obj\Debug\shoper.Common.dll
+E:\shop-net-api\shopping\shoper.Common\obj\Debug\shoper.Common.pdb
