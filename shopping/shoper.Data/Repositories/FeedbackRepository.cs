@@ -15,7 +15,7 @@ namespace shoper.Data.Repositories
         }
     }
 
-    internal interface IFeedbackRepository
+    public interface IFeedbackRepository : IRepository<Feedback>
     {
     }
 }

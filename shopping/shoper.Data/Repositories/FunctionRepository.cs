@@ -15,7 +15,7 @@ namespace shoper.Data.Repositories
         }
     }
 
-    public interface IFunctionRepository
+    public interface IFunctionRepository : IRepository<Function>
     {
     }
 }

@@ -40,6 +40,7 @@ namespace shoper.Data
         public DbSet<Pages> Pages { set; get; }
         public DbSet<ContactDetail> ContactDetails { set; get; }
         public DbSet<SystemConfig> SystemConfigs { set; get; }
+        public DbSet<ProductQuantity> ProductQuantity { set; get; }
         protected override void OnModelCreating(DbModelBuilder builder)
         {
 

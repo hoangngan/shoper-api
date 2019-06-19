@@ -15,7 +15,7 @@ namespace shoper.Data.Repositories
         }
     }
 
-    public interface IMenu
+    public interface IMenu : IRepository<Menu>
     {
     }
 }

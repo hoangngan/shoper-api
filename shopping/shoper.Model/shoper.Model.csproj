@@ -68,6 +68,7 @@
     <Compile Include="Model\Product.cs" />
     <Compile Include="Model\ProductCategory.cs" />
     <Compile Include="Model\ProductImage.cs" />
+    <Compile Include="Model\ProductQuantity.cs" />
     <Compile Include="Model\ProductTag.cs" />
     <Compile Include="Model\Size.cs" />
     <Compile Include="Model\Slide.cs" />

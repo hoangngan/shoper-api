@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace shoper.Data.Repositories
 {
-    public interface IColorRepository
+    public interface IColorRepository : IRepository<Color>
     {
     }
     public class ColorRepository : RepositoryBase<Color>, IColorRepository

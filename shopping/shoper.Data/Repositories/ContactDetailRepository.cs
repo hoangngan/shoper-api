@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace shoper.Data.Repositories
 {
 
-    public interface IContactDetailRepository
+    public interface IContactDetailRepository  : IRepository<ContactDetail> 
     {
     }
     public class ContactDetailRepository : RepositoryBase<ContactDetail>, IContactDetailRepository

@@ -15,7 +15,7 @@ namespace shoper.Data.Repositories
         }
     }
 
-    public interface IOrderRepository
+    public interface IOrderRepository : IRepository<Order>
     {
     }
 }

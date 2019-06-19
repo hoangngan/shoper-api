@@ -14,3 +14,4 @@ E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Model.dll
 E:\shop-net-api\shopping\shoper.Data\bin\Debug\shoper.Model.pdb
 E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.Migrations.InitialDB.resources
 E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.csproj.GenerateResource.Cache
+E:\shop-net-api\shopping\shoper.Data\obj\Debug\shoper.Data.Migrations.InitialDB1.resources

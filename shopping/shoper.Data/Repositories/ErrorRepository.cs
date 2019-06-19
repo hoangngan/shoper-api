@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace shoper.Data.Repositories
 {
-    internal interface IErrorRepository
+    internal interface IErrorRepository : IRepository<Error>
     {
     }
     public class ErrorRepository : RepositoryBase<Error>, IErrorRepository
